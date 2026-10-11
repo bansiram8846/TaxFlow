@@ -1,0 +1,6 @@
+{
+  "name": "TaxFlow",
+  "description": "Smart AI-powered expense tracking, tax write-offs, mileage detection, and multi-currency ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
